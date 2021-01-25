@@ -1,0 +1,3 @@
+[submodule "bootcamp/horiseon"]
+	path = bootcamp/horiseon
+	url = https://github.com/dsmithjackson/Horiseon.git
