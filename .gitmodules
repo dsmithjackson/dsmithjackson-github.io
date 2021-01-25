@@ -4,3 +4,6 @@
 [submodule "bootcamp/weather"]
 	path = bootcamp/weather
 	url = https://github.com/dsmithjackson/weather_api-io.git
+[submodule "bootcamp/javaquiz"]
+	path = bootcamp/javaquiz
+	url = https://github.com/dsmithjackson/javaquiz.io.git
