@@ -1,3 +1,6 @@
 [submodule "bootcamp/horiseon"]
 	path = bootcamp/horiseon
 	url = https://github.com/dsmithjackson/Horiseon.git
+[submodule "bootcamp/weather"]
+	path = bootcamp/weather
+	url = https://github.com/dsmithjackson/weather_api-io.git
