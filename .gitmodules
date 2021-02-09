@@ -7,3 +7,7 @@
 [submodule "bootcamp/javaquiz"]
 	path = bootcamp/javaquiz
 	url = https://github.com/dsmithjackson/javaquiz.io.git
+[submodule "bootcamp/password"]
+	path = bootcamp/password
+	url = https://github.com/dsmithjackson/password-generator.io.git
+
