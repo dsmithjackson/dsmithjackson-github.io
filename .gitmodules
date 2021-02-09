@@ -10,4 +10,3 @@
 [submodule "bootcamp/password"]
 	path = bootcamp/password
 	url = https://github.com/dsmithjackson/password-generator.io.git
-
