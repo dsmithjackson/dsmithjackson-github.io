@@ -10,3 +10,6 @@
 [submodule "bootcamp/password"]
 	path = bootcamp/password
 	url = https://github.com/dsmithjackson/password-generator.io.git
+[submodule "bootcamp/workday_planner"]
+	path = bootcamp/workday_planner
+	url = https://github.com/dsmithjackson/work_day_planner.git
